@@ -1,3 +1,11 @@
+# Index(ticker='RUI.INDX').get_members()
+
+
+# internal_url = f"https://eodhd.com/api/internal-user?api_token=62361713d59881.71478142&fmt=json"
+# internal_resp = requests.get(internal_url)
+# print(internal_resp.json())
+
+
 """ 
   ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
   │ Call Template                                                                                                    │
